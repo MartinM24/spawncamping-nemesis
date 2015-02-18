@@ -1,3 +1,5 @@
 # spawncamping-nemesis
-master
+
+masterbetter
+
 repository for kurs med Poetene
