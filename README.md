@@ -1,3 +1,3 @@
 # spawncamping-nemesis
-better
+better2
 repository for kurs med Poetene
